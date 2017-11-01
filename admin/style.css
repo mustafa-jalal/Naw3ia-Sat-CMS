@@ -1,0 +1,12 @@
+*{background:#47c8fd;}
+#wrapright{
+direction:rtl;
+}
+#wrapright ul{
+list-style:none;
+}
+#wrapright ul li a{
+
+margin-left:12px;background:#47dfff;display:block;color:#fff;padding:4px;border:2px solid #fff;border-radius:5px;font-weight:bold;
+}
+#wrapright ul li a:hover{background:#00eecd;}
