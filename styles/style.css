@@ -1,0 +1,131 @@
+*{margin:0px;outline:0px;padding:0px;}
+body{direction:rtl;background:#abe1e6;
+color:#777;font-size:16px;font-family:tahoma;}
+a{text-decoration:none;}
+#home{width:95%;background:#eafafb;
+margin:auto;
+;border-right:3px solid #8accd2;
+border-left:3px solid #8accd2;
+border-bottom:3px solid #8accd2;}
+#header{background:#47c8fd;color:#fff;
+padding:40px;text-align:right;}
+#footer{background:#47c8fd;color:#555;
+padding:40px;text-align:center;
+height:20px;
+}
+#footer a{text-decoration:none;color:#fff;}
+#nb{height:32px;background:#47c8fd;}
+#nb ul{list-style:none;margin:0px;padding:0px;}
+#nb ul li{float:right;}
+#nb ul li a{margin-left:12px;background:#47dfff;display:block;color:#fff;padding:4px;border:2px solid #fff;border-radius:5px;}
+#nb ul li a:hover{background:#00ffde;}
+#rblock{}
+#bblock{}
+#cblock{}
+#title{background:#47c8fd;padding:7px;text-align:center;
+margin-top:7px}
+#panel{padding:7px;border:1px solid #47c8fd;font-size:15px;}
+#panel ul{list-style:none;margin:0px;padding:0px;}
+#panel ul li{padding:5px;margin:0px;margin-top:1px;}
+#panel ul li a{color:#fff;display:block;border:1px solid #ccc;-moz-border-radius:5px;
+border-radius:3px;background:#47dfff;padding:5px;}
+#panel li a:hover{background:#00ffde;}
+#paner{float:left;}
+#logo{valign:top;}
+#con{
+    width: 95%  ;
+    margin:auto;
+    background:#eafafb;
+    text-align: center;
+
+}
+
+#mnhg{
+    width: 100%;
+    text-align: center;
+     height:100px;
+     padding-top: 30px;
+
+}
+#dwora{
+       width: 100%;
+    text-align: center;
+     height:100px;
+     padding-top: 25px;
+}
+
+#intro{
+          width: 40%;
+margin-top: 10px;
+ background:#00ffde;
+  border:2px solid #00ffde;
+    -webkit-border-radius: 15px;
+    -moz-border-radius:5px;
+     margin:auto;
+
+}
+select{
+    height: 40px;
+        width:55%;
+    border:2px solid #00ffde;
+    -webkit-border-radius: 15px;
+    -moz-border-radius:5px;
+     padding:10px;
+
+}
+option{
+                background:#00ffde;
+
+
+}
+ select:hover{
+     background:#FF99FF ;
+ }
+input{
+     background: #fff;
+     width:85px;
+     border:2px solid #00ffde;
+    -webkit-border-radius: 15px;
+     height: 35px;
+   -moz-border-radius:5px;
+ }
+ input:hover{
+     background: #FF66FF;
+      border:2px solid #CC33FF;
+
+      }
+
+}
+
+#error{
+margin-right:20px;
+width:150px;
+height:25px;
+color:#fff;
+background:#f00;
+}
+#show{
+border:1px solid #0ff;
+}
+#de ul{
+list-style:none;
+}
+#de {
+height:30px;
+background:#24d8e4;
+}
+#de ul li {
+float:right;
+margin-left:8px;
+padding:5px;
+}
+#de ul li:hover{
+background:#37f185;
+}
+#im{
+text-align:left;
+position:relative;
+}
+#us{
+position:absolute;
+}
